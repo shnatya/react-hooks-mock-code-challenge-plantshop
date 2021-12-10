@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Castle Cactus",
+      "image": "https://cdn.shopify.com/s/files/1/2781/9558/products/4FAIRY_CACTUS-3_1200x1680.png?v=1635880608",
+      "price": "5.89",
+      "id": 8
+    },
+    {
+      "name": "Leo",
+      "image": "https://cdn.shopify.com/s/files/1/2781/9558/products/6__FICUS_BURGUNDY-1_1000x.png?v=1635877505",
+      "price": "12.75",
+      "id": 9
     }
   ]
 }
